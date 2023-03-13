@@ -1,4 +1,4 @@
-# jsonSchemaValidator
+# JSON Schema Validator
 
 Playing around with JSON Schema, Ajv JSON schema validator and Postman.
 
@@ -14,13 +14,13 @@ npm start
 
 ## How to use it
 
-1. Create a POST request in Postman to the following address:
+1. Create a POST request using Postman to the following address:
 
 ````
 http://localhost:3000/jsonSchema
 ````
 
-2. Add on the body tab one of the two files in the json folder inside this project.
+2. Inside the Body of the request add one of the two files in the json folder inside this project.
 
 ### For example:
 `````
