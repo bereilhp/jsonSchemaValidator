@@ -34,7 +34,7 @@ http://localhost:3000/jsonSchema
 }
 `````
 
-3. Hit send and check your terminal to see if the JSON is valid or not. 
+3. Hit send and check if the JSON is valid or not (also you can check it with the status code of the request). 
 
 
 
